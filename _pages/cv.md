@@ -13,8 +13,10 @@ nav_order: 4
 ## Employment
 
 **Elon University**, Elon, NC
-- Associate Professor of Economics (2021–present)
-- Assistant Professor of Economics (2012–2021)
+- Associate Professor of Economics (2022–present)
+- Assistant Professor of Economics (2016–2022)
+**North Central College**, Naperville, IL
+- Assistant Professor of Economics (2012-2016)
 
 ---
 
@@ -22,7 +24,7 @@ nav_order: 4
 
 **Ph.D., Economics** — University of Kentucky, 2012
 
-**B.S., Economics** — (undergraduate institution)
+**B.S., Economics** — Centre College, 2006
 
 ---
 
