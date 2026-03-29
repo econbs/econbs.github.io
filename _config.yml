@@ -17,10 +17,10 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: economics, international trade, economic growth, pedagogy, economics education, Elon University
 lang: en
-icon: 🎓
+icon: ð
 
 url: https://www.brandonsheridan.com # the base hostname & protocol for your site
-baseurl: # leave blank — site is served from root domain
+baseurl: # leave blank â site is served from root domain
 last_updated: true
 impressum_path:
 back_to_top: true
@@ -207,7 +207,7 @@ keep_files:
   - .git
 
 plugins:
-  - jekyll-archives
+  - jekyll-archives-v2
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
