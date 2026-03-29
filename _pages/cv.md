@@ -15,6 +15,7 @@ nav_order: 4
 **Elon University**, Elon, NC
 - Associate Professor of Economics (2022–present)
 - Assistant Professor of Economics (2016–2022)
+
 **North Central College**, Naperville, IL
 - Assistant Professor of Economics (2012-2016)
 
