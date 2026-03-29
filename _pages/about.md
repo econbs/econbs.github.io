@@ -27,4 +27,4 @@ I am a co-editor of [*Teaching Economics Online*](https://www.e-elgar.com/shop/g
 
 At Elon, I teach Intermediate Macroeconomics, International Trade & Finance, Principles of Economics, and Federal Reserve Challenge. I am also a long-time coach and advisor for [Elon's Federal Reserve Challenge](https://www.federalreserve.gov/releases/z1/current/default.htm) team and mentor undergraduate senior thesis research.
 
-Outside of academia, I write about economics at [The Economics Brief](https://economicsbs.substack.com) on Substack.
+Outside of academia, I occasionally write about economics at [Economics BS](https://economicsbs.substack.com) on Substack.
