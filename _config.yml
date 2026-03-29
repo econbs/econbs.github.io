@@ -207,6 +207,7 @@ keep_files:
   - .git
 
 plugins:
+  - jekyll-archives-v2
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
@@ -335,15 +336,16 @@ imagemagick:
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-  enabled: [year, tags, categories]
-  layouts:
-    year: archive-year
-    tag: archive-tag
-    category: archive-category
-  permalinks:
-    tag: /blog/tag/:name/
-    category: /blog/category/:name/
-    year: /blog/:year/
+  posts:
+    enabled: [year, tags, categories]
+    layouts:
+      year: archive-year
+      tag: archive-tag
+      category: archive-category
+    permalinks:
+      tag: /blog/tag/:name/
+      category: /blog/category/:name/
+      year: /blog/:year/
 
 display_tags: ["formatting", "images", "links", "math", "code"]
 display_categories: ["blockquotes"]
