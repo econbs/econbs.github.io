@@ -6,7 +6,7 @@ subtitle: Associate Professor of Economics, <a href='https://www.elon.edu/u/acad
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: prof_pic.jpg
   image_circular: false
   more_info: >
     <p>Koury Business Center, Room 118</p>
