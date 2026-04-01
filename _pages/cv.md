@@ -31,7 +31,7 @@ nav_order: 4
 
 ## Research Interests
 
-International Economics (economic growth takeoffs, trade margins, export structure) · Economics Education (active learning, social media, technology in the classroom)
+Economics Education (active learning, technology in the classroom) · International Trade (extensive and intensive margins) and Economic Growth (takeoffs and turning points)· 
 
 ---
 
