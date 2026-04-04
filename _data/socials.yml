@@ -16,3 +16,7 @@ linkedin_id:
   value: brandon-sheridan-5294a2b1
   logo: fa-brands fa-linkedin  # This overrides the default icon if needed
 orcid_id: 0000-0001-8780-8560 # replace with your 16-digit ORCID
+custom_social:
+  - title: EENE
+    url: https://eene.org
+    logo: /assets/img/eene-logo-without-text.png  # Use the path to your uploaded file
