@@ -13,5 +13,6 @@ scholar_userid: sLouMRgAAAAJ # your Google Scholar ID
 #  title: Custom Social
 #  url: https://www.alberteinstein.com/
 linkedin_id:
-  value: your-profile-username
+  value: brandon-sheridan-5294a2b1
   logo: fa-brands fa-linkedin  # This overrides the default icon if needed
+orcid_id: 0000-0001-8780-8560 # replace with your 16-digit ORCID
