@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Common courses taught include: Intermediate Macroeconomics, International Trade & Finance, Principles of Economics, Federal Reserve Challenge
+description: Common courses taught include Intermediate Macroeconomics, International Trade & Finance, Principles of Economics, Federal Reserve Challenge
 nav: true
 nav_order: 6
 calendar: true
