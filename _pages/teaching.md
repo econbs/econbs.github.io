@@ -2,14 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Common courses taught include: Intermediate Macroeconomics, International Trade & Finance, Principles of Economics, Federal Reserve Challenge
 nav: true
 nav_order: 6
 calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+At Elon, I teach Intermediate Macroeconomics, International Trade & Finance, Principles of Economics, and a course on the Federal Reserve Challenge. The latter course helps students I am also a long-time coach and advisor for [Elon's Federal Reserve Challenge](https://www.federalreserve.gov/releases/z1/current/default.htm) team and mentor undergraduate senior thesis research.
 
 {% include courses.liquid %}
