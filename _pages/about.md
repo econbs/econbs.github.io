@@ -9,22 +9,23 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Koury Business Center, Room 118</p>
+    <p>Koury Business Center</p>
     <p>Department of Economics</p>
     <p>Martha and Spencer Love School of Business</p>
-    <p>Elon University, Elon, NC 27244</p>
+    <p>Elon University</p>
+    <p>Elon, NC 27244</p>
 
 news: false
 selected_papers: true
 social: true
 ---
 
-I am an Associate Professor of Economics in the [Martha and Spencer Love School of Business](https://www.elon.edu/u/academics/business/) at [Elon University](https://www.elon.edu). I received my Ph.D. in Economics from the University of Kentucky in 2012.
+I am an Associate Professor of Economics in the [Martha and Spencer Love School of Business](https://www.elon.edu/u/academics/business/) at [Elon University](https://www.elon.edu). 
 
-My research spans two areas. In **international economics**, I study how countries transition through stages of development, focusing on the relationship between economic growth takeoffs and the structure of international trade — examining both the extensive and intensive margins of trade using quantile regression and sorted effects approaches. In **economics education**, I investigate how active learning strategies and technology shape student outcomes, including a long-running research program on social media in the economics classroom.
+My research spans two parallel tracks. One track explores the intersection of **economic growth** and **international trade**, including export margins. I'm keen to understand the heterogeneity in these relationships. For example, in a [recent paper](https://doi.org/10.1111/twec.13694) we find that increasing export growth leads to an increase in the probability that a country experience a significant acceleration in their economic growth rate, with low-income countries having thhe largest increase in this probability.   
 
-I am a co-editor of [*Teaching Economics Online*](https://www.e-elgar.com/shop/gbp/teaching-economics-online-9781803924946.html) (Edward Elgar, 2024) and a founding member of the [Economic Education Network for Experiments (EENE)](https://www.economicseducationnetwork.org/). I currently serve as a [CATL](https://www.elon.edu/u/academics/catl/) Pedagogy Fellow at Elon (2025–2027).
+My other research track is in **economics education**. As a professor, I always strive to improve the learning experience for my students. As an economist, I think we have a great toolkit to help us address some of these issues and add to the evidence of what does and does not in the classroom. To that end, I am part of the leadership team for the relatively new [Economic Education Network for Experiments](https://eene.org/). Check it out! We'd love to have you join us!
 
-At Elon, I teach Intermediate Macroeconomics, International Trade & Finance, Principles of Economics, and Federal Reserve Challenge. I am also a long-time coach and advisor for [Elon's Federal Reserve Challenge](https://www.federalreserve.gov/releases/z1/current/default.htm) team and mentor undergraduate senior thesis research.
+I currently serve as a [CATL](https://www.elon.edu/u/academics/catl/) Pedagogy Fellow at Elon (2025–2027), where I'm focused on how AI is changing our teaching practice and how students learn. 
 
 Outside of academia, I occasionally write about economics at [Economics BS](https://economicsbs.substack.com) on Substack.
