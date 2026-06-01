@@ -37,6 +37,10 @@ Economics Education (active learning, technology in the classroom) · Internatio
 
 ## Peer-Reviewed Publications
 
+<div class="publications">
+{% bibliography %}
+</div>
+
 **2026**
 - Orlov, G., McKee, D., Marshall, E., Goffe, W., and **Sheridan, B. J.** "Enabling Collaborative Research at Scale: The Economic Education Network for Experiments (EENE)." *Journal of Economic Education*, 57(1), 130–136.
 - Al-Bahrani, A., Ducking, J., Patel, D., and **Sheridan, B. J.** "Engaging Students Using Social Media: An Update to the Students' Perspective." *Journal of Economic Education*, 57(1), 39–52.
