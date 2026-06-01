@@ -8,6 +8,6 @@ nav_order: 6
 calendar: true
 ---
 
-At Elon, I teach Intermediate Macroeconomics, International Trade & Finance, Principles of Economics, and a course on the Federal Reserve Challenge. The latter course helps students I am also a long-time coach and advisor for [Elon's Federal Reserve Challenge](https://www.federalreserve.gov/releases/z1/current/default.htm) team and mentor undergraduate senior thesis research.
+At Elon, I teach Intermediate Macroeconomics, International Trade & Finance, Principles of Economics, and Economic Growth and Development. I am also a long-time co-coach and advisor for [Elon's Federal Reserve Challenge](https://www.federalreserve.gov/conferences/fedchallenge.htm) team. I occasionally mentor undergraduate senior thesis research, many of whom go on to publish their research in undergraduate peer-reviewed journals.
 
 {% include courses.liquid %}
