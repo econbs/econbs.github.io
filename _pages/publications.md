@@ -17,25 +17,7 @@ Carlos Cortinhas, Jana Sadeh, Emily Marshall, Brandon Sheridan, Douglas McKee, M
 
 <details>
 <summary><strong>Abstract</strong></summary>
-  This paper investigates the academic mindset of economics students across eight countries
-using a large-scale dataset collected through the Economic Education Network for Experiments
-(EENE) in 2023/24 and 2024/25. Surveys from 1,188 students and 14 instructors across 18
-modules at 11 universities outside the United States measured four dimensions of academic
-mindset—belonging, self-efficacy, growth mindset, and perceived relevance—at the start and
-end of a teaching term.
-We find that students’ mindsets are dynamic and context-dependent rather than uniformly
-improving over time. While perceptions of belonging within economics and the discipline’s
-relevance tended to increase, general self-efficacy and beliefs about the accessibility of economics
-declined during the academic term. Gender consistently emerged as an important source of
-heterogeneity: non-male students reported lower self-efficacy and weaker perceived relevance of
-economics, with several gaps remaining evident by term’s end. Pedagogical context was also
-associated with outcomes: active learning environments and intermediate-level courses were
-often linked to stronger mindset measures, while larger institutions and later academic years
-were sometimes associated with weaker outcomes. Cross-national variation was substantial.
-These results highlight that student self-efficacy and identity with economics are associated
-not only with individual characteristics but also with pedagogical practice and institutional
-context. The findings point to the potential value of inclusive, interactive teaching and culturally
-sensitive approaches to support diverse participation in economics education worldwide.
+  This paper investigates the academic mindset of economics students across eight countries using a large-scale dataset collected through the Economic Education Network for Experiments (EENE) in 2023/24 and 2024/25. Surveys from 1,188 students and 14 instructors across 18 modules at 11 universities outside the United States measured four dimensions of academic mindset—belonging, self-efficacy, growth mindset, and perceived relevance—at the start and end of a teaching term. We find that students’ mindsets are dynamic and context-dependent rather than uniformly improving over time. While perceptions of belonging within economics and the discipline’s relevance tended to increase, general self-efficacy and beliefs about the accessibility of economics declined during the academic term. Gender consistently emerged as an important source of heterogeneity: non-male students reported lower self-efficacy and weaker perceived relevance of economics, with several gaps remaining evident by term’s end. Pedagogical context was also associated with outcomes: active learning environments and intermediate-level courses were often linked to stronger mindset measures, while larger institutions and later academic years were sometimes associated with weaker outcomes. Cross-national variation was substantial. These results highlight that student self-efficacy and identity with economics are associated not only with individual characteristics but also with pedagogical practice and institutional context. The findings point to the potential value of inclusive, interactive teaching and culturally sensitive approaches to support diverse participation in economics education worldwide.
 </details>
 
 <details>
@@ -103,6 +85,9 @@ Methodology, Project Administration, Supervision, Visualization,
 Writing – Review & Editing.
 
 </details>
+
+*Status: Working Paper*
+
 ---
 
 ### Complementing Collaborative Learning with Generative Artificial Intelligence
@@ -112,6 +97,8 @@ Writing – Review & Editing.
 I describe an approach for integrating artificial intelligence (AI) into the economics classroom in a way that promotes critical thinking, engenders trust, and fosters AI literacy skills. Many instructors are understandably apprehensive about the current wave of technology because it brings with it questions about academic integrity, ethics, and equity.  I propose a modification of the send-a-problem collaborative learning technique in which students first develop foundational knowledge individually, then probe that knowledge by joining teams and using AI to create complex problems, then finally solving the problems created by their peers. Students are surveyed at the end of the semester to reflect on their experience with the AI assignments, their attitudes towards using AI in an academic context, and their perceptions of the usefulness of the tool as a learning supplement. This study takes place over two semesters and includes two sections of Economics Principles, two sections of Intermediate Macroeconomics, and a Federal Reserve Challenge course, resulting in about 130 students being surveyed. Preliminary findings suggest that students enjoyed the AI activities, appreciated the value of creating problems, and recognized limitations of the technology.
 
 </details>
+
+*Status: Working Paper*
 
 ---
 
