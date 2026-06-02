@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: research
+title: current research
 nav: true
 nav_order: 2
 ---
@@ -29,7 +29,7 @@ Writing – Review & Editing.
 
 </details>
 
-*Status: Revise and Resubmit*
+_Status: Revise and Resubmit_
 
 ---
 
@@ -56,11 +56,11 @@ Writing – Review & Editing.
 
 </details>
 
-*Status: Under Review*
+_Status: Under Review_
 
 ---
 
-## current working papers
+
 
 ### [Evolution of Academic Mindset During Economics Courses](https://www.eene.org/abstracts/ams-evolution/)
 
@@ -86,11 +86,12 @@ Writing – Review & Editing.
 
 </details>
 
-*Status: Working Paper*
+_Status: Working Paper_
 
 ---
 
 ### Complementing Collaborative Learning with Generative Artificial Intelligence
+
 <details>
 
 <summary><strong>Abstract</strong></summary>
@@ -98,7 +99,7 @@ I describe an approach for integrating artificial intelligence (AI) into the eco
 
 </details>
 
-*Status: Working Paper*
+_Status: Working Paper_
 
 ---
 
@@ -106,18 +107,13 @@ I describe an approach for integrating artificial intelligence (AI) into the eco
 
 ### [Using Social Media to Enhance Teaching and Learning](https://www.aeaweb.org/content/file?id=21556)
 
-Sheridan, Brandon J. (2024). *EconEdNews*, Fall, pp. 3–4.
+Sheridan, Brandon J. (2024). _EconEdNews_, Fall, pp. 3–4.
 
-*Invited Contribution*
+_Invited Contribution_
 
 ---
 
 ### [The Success Stool: A Framework for Continually Improving as an Educator](https://github.com/econbs/website/blob/3726d6d1ae181ebdfb9231a76083e18fcf1016c7/Success%20Stool%20-%20DRAFT%20-%20do%20not%20circulate.docx)
 
-*Research in Progress*
+_Research in Progress_
 
-
-
-<div class="publications">
-{% bibliography %}
-</div>
