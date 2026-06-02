@@ -35,7 +35,7 @@ Economics Education (active learning, technology in the classroom) · Internatio
 
 ---
 
-## Peer-Reviewed Publications
+## Publications
 
 <div class="publications">
 {% bibliography %}
