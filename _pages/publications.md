@@ -29,7 +29,7 @@ Writing – Review & Editing.
 
 </details>
 
-_Status: Revise and Resubmit_
+_Status: Forthcoming in International Review of Economics Education_
 
 ---
 
@@ -51,12 +51,12 @@ James Staveley-O’Carroll, Petar Stankov, Emily Marshall, Brandon Sheridan, Dou
 <summary><strong>My Contributions (CRediT)</strong></summary>
 
 Conceptualization, Data Curation, Formal Analysis, Investigation,
-Methodology, Project Administration, Supervision, Visualization,
+Methodology, Project Administration, Supervision, Visualization, Writing -- Original Draft,
 Writing – Review & Editing.
 
 </details>
 
-_Status: Under Review_
+_Status: Revise and Resubmit_
 
 ---
 
@@ -81,12 +81,12 @@ Research shows that non-male students and first generation college students ente
 <summary><strong>My Contributions (CRediT)</strong></summary>
 
 Conceptualization, Data Curation, Formal Analysis, Investigation,
-Methodology, Project Administration, Supervision, Visualization,
+Methodology, Project Administration, Supervision, Visualization, Writing - Original Draft,
 Writing – Review & Editing.
 
 </details>
 
-_Status: Working Paper_
+_Status: Working Paper - near submission_
 
 ---
 
@@ -99,7 +99,7 @@ I describe an approach for integrating artificial intelligence (AI) into the eco
 
 </details>
 
-_Status: Working Paper_
+_Status: Under Review_
 
 ---
 
