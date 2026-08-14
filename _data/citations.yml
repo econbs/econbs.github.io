@@ -1,16 +1,20 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-14'
 papers:
   sLouMRgAAAAJ:2VqYfGB8ITEC:
     citations: 6
     title: 'Growth takeoffs and trade margins: a quantile regression approach'
     year: '2020'
   sLouMRgAAAAJ:2osOgNQ5qMEC:
-    citations: 128
+    citations: 122
     title: 'Manufacturing exports and growth: When is a developing country ready to transition from primary exports to manufacturing exports?'
     year: '2014'
+  sLouMRgAAAAJ:3htObqc8RwsC:
+    citations: 0
+    title: International insights into the academic mindset of economics students
+    year: '2026'
   sLouMRgAAAAJ:4hFrxpcac9AC:
-    citations: 31
+    citations: 30
     title: Evaluating Twitter and its impact on student learning in principles of economics courses
     year: '2017'
   sLouMRgAAAAJ:4vMrXwiscB8C:
@@ -18,7 +22,7 @@ papers:
     title: 'The Econ Games: building a virtual co-curricular conference to create community and connect students'
     year: '2024'
   sLouMRgAAAAJ:9c2xU6iGI7YC:
-    citations: 15
+    citations: 16
     title: Economic growth takeoffs and the extensive and intensive margins of trade
     year: '2021'
   sLouMRgAAAAJ:DJbcl8HfkQkC:
@@ -34,27 +38,31 @@ papers:
     title: Heterogeneous time zone effects and exports
     year: '2019'
   sLouMRgAAAAJ:ODE9OILHJdcC:
-    citations: 4
-    title: 'Enabling collaborative research at scale: The economic education network for experiments (eene)'
+    citations: 5
+    title: 'Enabling collaborative research at scale: The Economic Education Network for Experiments (EENE)'
+    year: '2026'
+  sLouMRgAAAAJ:OR75R8vi5nAC:
+    citations: 0
+    title: International insights into the academic mindset of economics students
     year: '2026'
   sLouMRgAAAAJ:OTTXONDVkokC:
     citations: 31
     title: The impact of national anthem protests on National Football League television ratings
     year: '2020'
   sLouMRgAAAAJ:OcBU2YAGkTUC:
-    citations: 0
+    citations: 1
     title: The Use of Generative Artificial Intelligence in Economics
     year: '2026'
   sLouMRgAAAAJ:QYdC8u9Cj1oC:
-    citations: 4
+    citations: 3
     title: Teaching the introductory microeconomics course with social media
     year: '2023'
   sLouMRgAAAAJ:UeHWp8X0CEIC:
-    citations: 147
+    citations: 146
     title: "Engaging students using social media: The students\u2019 perspective"
     year: '2015'
   sLouMRgAAAAJ:W7OEmFMy1HYC:
-    citations: 34
+    citations: 31
     title: Have economic educators embraced social media as a teaching tool?
     year: '2017'
   sLouMRgAAAAJ:Y0pCki6q_DkC:
@@ -62,23 +70,23 @@ papers:
     title: 'Short vs. long: cognitive load, retention and changing class structures'
     year: '2017'
   sLouMRgAAAAJ:YsMSGLbcyi4C:
-    citations: 21
+    citations: 20
     title: 'The great digital divide: Using popular media to teach Economics'
     year: '2016'
   sLouMRgAAAAJ:bKqednn6t2AC:
-    citations: 1
+    citations: 2
     title: Measuring academic mindset in economics courses
     year: '2026'
   sLouMRgAAAAJ:cWzG1nlazyYC:
-    citations: 6
-    title: Economic sanctions and export margins
+    citations: 5
+    title: Economic Sanctions and Export Margins
     year: '2025'
   sLouMRgAAAAJ:mNrWkgRL2YcC:
     citations: 0
     title: Teaching Economics Online
     year: '2024'
   sLouMRgAAAAJ:mlAyqtXpCwEC:
-    citations: 34
+    citations: 35
     title: How often does active learning actually occur? Perception versus reality
     year: '2020'
   sLouMRgAAAAJ:qjMakFHDy7sC:
@@ -86,18 +94,18 @@ papers:
     title: Austerity and exports
     year: '2016'
   sLouMRgAAAAJ:u-x6o8ySG0sC:
-    citations: 27
+    citations: 25
     title: A primer for new teachers of economics
     year: '2014'
   sLouMRgAAAAJ:u5HHmVD_uO8C:
-    citations: 37
+    citations: 36
     title: "The dynamics of sectoral electricity demand for a panel of US states: New evidence on the consumption\u2013growth nexus"
     year: '2013'
   sLouMRgAAAAJ:yFnVuubrUp4C:
-    citations: 1
+    citations: 2
     title: "Students\u2019 perspectives of social media use in economics courses"
     year: '2026'
   sLouMRgAAAAJ:zYLM7Y9cAGgC:
-    citations: 12
+    citations: 10
     title: Dive in! Tips for Teaching Economics Through'Shark Tank'
     year: '2014'
